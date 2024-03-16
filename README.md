@@ -1,3 +1,3 @@
 # lo-fi-player
 
-Online user in app.
+Online users in app.
