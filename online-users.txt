@@ -1,4 +1,2 @@
 [users]
-Yaroy, Mindy
-Manuel
-Jacinto
+Yaroy
