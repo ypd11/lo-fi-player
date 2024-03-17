@@ -1,0 +1,10 @@
+- open musicbrainz website for search
+https://musicbrainz.org/search?query=country&type=artist&method=indexed
+
+PLAYER
+
+- exclude songs in playlist by currentIndex
+
+
+line 916 and line 1051 >>> add music folders to treeview
+
